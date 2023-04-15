@@ -33,21 +33,11 @@
 
         "url": "git+https://github.com/Manishgupta64047/chatgpt-bot.git"
 
- }   }, {
+    }, 
 
-"author": "manish",
-
-    "license": "ISC",
-
-    "bugs": {
-
-        "url": "https://github.com/Manishgupta64047/chatgpt-bot/issues"
-
-
-
-    "homepage": "https://github.com/Manishgupta64047/chatgpt-bot#readme"
+"author": { "manish",
 
 }
+   
 
-
-
+    
