@@ -1,0 +1,41 @@
+api 
+
+{
+
+    "name": "chatgpt-bot",
+
+"version": "1.0.0",
+
+    "description": "telegram bot",
+
+    "scripts": {
+
+        "build": "echo \"No build specified\" && exit 1",
+
+        "test": "echo \"No test specified\" && exit 1",
+
+    "start": "node index.js"
+
+    },
+
+    "repository": {
+
+    "type": "git",
+
+        "url": "git+https://github.com/Manishgupta64047/chatgpt-bot.git"
+
+    },
+
+"author": "",
+
+    "license": "ISC",
+
+    "bugs": {
+
+        "url": "https://github.com/Manishgupta64047/chatgpt-bot/issues"
+
+},
+
+    "homepage": "https://github.com/Manishgupta64047/chatgpt-bot#readme"
+
+}
